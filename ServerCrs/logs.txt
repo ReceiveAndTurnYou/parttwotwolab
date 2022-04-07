@@ -1,0 +1,10 @@
+Logs cleared
+Logs selected
+File cleared
+Review selected
+Company count selected
+Product number count selected
+User: Admin checked on blocked
+User: Admin auth in programm
+Users ID list selected
+User by id selected
